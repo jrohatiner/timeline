@@ -16,7 +16,7 @@
     "es6-promise": "^3.0.2",
     "es6-shim": "^0.33.3",
     "express": "^4.13.3",
-    "jquery": "^2.1.4",
+    "jquery": "^3.5.0",
     "moment": "^2.11.2",
     "ng2-bootstrap": "^1.0.3",
     "reflect-metadata": "0.1.2",
